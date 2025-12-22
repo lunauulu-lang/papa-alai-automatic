@@ -1,5 +1,5 @@
 export default function ContactPage() {
-  const supportEmail = "hello@alaybek.com";
+  const supportEmail = "hello@alaibek.com";
 
   return (
     <main style={{ maxWidth: 900, margin: "40px auto", padding: "0 20px", lineHeight: 1.6 }}>
