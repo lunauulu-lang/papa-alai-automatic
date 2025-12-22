@@ -5,39 +5,55 @@ export default function RefundPage() {
       <p><strong>Last updated:</strong> December 2025</p>
 
       <p>
-        This Refund Policy applies to all products and services provided through the Papa Alai Automatic platform (“Service”, “we”, “us”, or “our”).
+        This Refund Policy applies to all products and services provided through the Papa Alai Automatic platform
+        (“Service”, “we”, “us”, or “our”).
       </p>
 
-      <h2>1. Digital Products</h2>
+      <h2>1. Digital Products (Downloads & Access)</h2>
       <p>
-        Due to the nature of digital products (including software, automation tools, templates, downloadable files, AI workflows, and access to digital content),
-        all sales are considered final once access has been granted.
+        Due to the nature of digital products (including software, automation tools, templates, downloadable files,
+        AI workflows, and access to digital content), all sales are generally final once access has been granted.
       </p>
       <p>
-        We do not offer refunds for digital products unless explicitly stated otherwise on the product sales page.
+        “Access granted” may include (but is not limited to) account activation, login access, file download access,
+        license key delivery, or providing a private link/invite.
+      </p>
+      <p>
+        Refunds for digital products are not provided unless explicitly stated on the product sales page or required by law.
       </p>
 
       <h2>2. Subscriptions</h2>
       <p>
-        If you purchase a subscription, you may cancel at any time. Your subscription will remain active until the end of the current billing period.
-      </p>
-      <p>
-        Subscription fees already paid are generally non-refundable, except where required by applicable law.
-      </p>
-
-      <h2>3. Chargebacks</h2>
-      <p>
-        If you initiate a chargeback without contacting us first, we reserve the right to suspend your access to the Service while the dispute is investigated.
+        If you purchase a subscription, you may cancel at any time. Your subscription will remain active until the end
+        of the current billing period. We generally do not provide refunds for the current billing period once it has started,
+        except where required by applicable law.
       </p>
 
-      <h2>4. Contact</h2>
+      <h2>3. Duplicate Charges / Billing Errors</h2>
       <p>
-        Questions about refunds or billing: <a href="mailto:support@alaibek.com">support@alaibek.com</a>
+        If you believe you were charged incorrectly (for example, duplicate charges), please contact us. If confirmed,
+        we will correct the error and issue an appropriate refund or adjustment.
       </p>
 
-      <h2>5. Changes to this Policy</h2>
+      <h2>4. Chargebacks</h2>
       <p>
-        We may update this Refund Policy from time to time. Continued use of the Service after updates means you accept the revised policy.
+        Please contact us first before initiating a chargeback. If a chargeback is initiated without contacting us,
+        we reserve the right to suspend access to the Service while the dispute is investigated.
+      </p>
+
+      <h2>5. Contact</h2>
+      <p>
+        For refund or billing questions, contact:{" "}
+        <a href="mailto:hello@alaibek.com">hello@alaibek.com</a>
+      </p>
+      <p>
+        We typically respond within <strong>48 hours</strong>.
+      </p>
+
+      <h2>6. Changes to this Policy</h2>
+      <p>
+        We may update this Refund Policy from time to time. Continued use of the Service after updates means you accept
+        the revised policy.
       </p>
     </main>
   );
