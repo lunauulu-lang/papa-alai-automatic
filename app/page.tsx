@@ -250,7 +250,7 @@ export default function HomePage() {
         <div style={styles.accent} />
 
         <div style={styles.icon} className="icon-hover" aria-label={`${brand} icon`} role="img">
-          ⚡
+          🚀
         </div>
 
         <h1 style={styles.h1}>{brand}</h1>
@@ -264,7 +264,7 @@ export default function HomePage() {
         <div style={styles.badges}>
           <span style={styles.badge} className="badge-hover">✅ Lead Generation</span>
           <span style={styles.badge} className="badge-hover">🔄 CRM Automation</span>
-          <span style={styles.badge} className="badge-hover">⚡ Webhooks & API</span>
+          <span style={styles.badge} className="badge-hover">🚀 Webhooks & API</span>
           <span style={styles.badge} className="badge-hover">🧠 AI Workflows</span>
           <span style={styles.badge} className="badge-hover">📊 Real-time Analytics</span>
         </div>
